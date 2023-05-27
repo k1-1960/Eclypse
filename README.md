@@ -1,0 +1,2 @@
+# Eclypse
+Eclypse discord bot.
